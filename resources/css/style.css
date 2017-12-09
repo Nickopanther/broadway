@@ -29,6 +29,10 @@
   text-align: center;
 }
 
+.content {
+  text-align: center;
+}
+
 #footer {
   background-color: dimgray;
   color: white;
@@ -38,5 +42,13 @@
 }
 
 #footer a {
+  color: white;
+}
 
+#footer a:hover {
+  color: red;
+}
+
+#footer a:visited {
+  color: blue;
 }
