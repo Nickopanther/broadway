@@ -1,0 +1,42 @@
+.background {
+  background-image: url("../images/the-flatiron-building.png")
+}
+
+.background h1 {
+  font-family: "Helvetica", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px black;
+}
+
+.background a {
+  font-family: "Helvetica", sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
+.background a:hover {
+  color: red;
+}
+
+.background a:visited {
+  color: blue;
+}
+.background ul li {
+  list-style-type: none;
+  text-align: center;
+}
+
+#footer {
+  background-color: dimgray;
+  color: white;
+  font-family: "Helvetica", sans-serif;
+  font-size: 11px;
+  text-align: center;
+}
+
+#footer a {
+
+}
